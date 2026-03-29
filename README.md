@@ -1,1 +1,2 @@
-# rsschool-cv
+## [CV.md](https://falsyfun.github.io/rsschool-cv/cv)
+## [CV.html](https://falsyfun.github.io/rsschool-cv/)
